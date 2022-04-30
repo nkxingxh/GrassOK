@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+github.cdn.nkxingxh.top	0	0	1651294425	15552000
+api.nkxingxh.top	0	0	1651307954	15552000
