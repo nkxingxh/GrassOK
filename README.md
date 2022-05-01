@@ -12,6 +12,6 @@ Grasscutter script for windows
 
 `-Set SSL Verify.bat` 修改 Git 的 SSL 验证设置
 
-`-Generate startup script.bat` 生成启动脚本
+`-Generate startup script.bat` 生成启动脚本 (需要先将 Grasscutter 的 Jar 文件放置在 output 文件夹中)
 
 `-Install patch.bat` 安装补丁 (测试)
